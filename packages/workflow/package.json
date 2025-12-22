@@ -51,6 +51,7 @@
     "vitest-mock-extended": "catalog:"
   },
   "dependencies": {
+    "@codemirror/autocomplete": "^6.0.0",
     "@n8n/errors": "workspace:*",
     "@n8n/tournament": "1.0.6",
     "ast-types": "0.16.1",
